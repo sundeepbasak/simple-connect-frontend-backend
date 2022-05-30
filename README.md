@@ -29,7 +29,7 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node server.js",
         "dev": "nodemon server.js"
-    }, 
+      }, 
     ````
 - in the server.js file
     ````javascript
